@@ -1,2 +1,6 @@
-# Case-Study-CE880
-An Approachable Introduction to Data Science
+# Bank Note Authentication using Machine Learning Techniques
+
+Guidelines to run the code:
+
+
+
